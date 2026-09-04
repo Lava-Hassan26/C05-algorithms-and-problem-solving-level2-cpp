@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P10-PrintDigitsInOrder.vcxproj" Id="469d3aa1-9f34-4de2-9708-1b931ba05187" />
+</Solution>
